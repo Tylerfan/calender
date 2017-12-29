@@ -94,3 +94,30 @@ class CollectionViewController: UICollectionViewController {
     */
 
 }
+
+/*
+fileprivate let sectionInsets = UIEdgeInsets(top: 70, left:0,bottom : 50, right: 20)
+
+extension CollectionViewController: UICollectionViewDelegateFlowLayout{
+    
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
+        let widthPerItem = view.frame.width / 20
+        
+        return CGSize(width: widthPerItem, height: widthPerItem)
+
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, insetForSectionAt section: Int) -> UIEdgeInsets {
+        return sectionInsets
+        
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumSpacingForSectionAt section: Int) -> CGFloat {
+        return 20
+        
+    }
+    
+    
+    
+}
+ */

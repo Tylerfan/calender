@@ -15,7 +15,6 @@
 		BA4FE9621FE95DB4003D8694 /* animationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4FE9611FE95DB4003D8694 /* animationTests.swift */; };
 		BA4FE96D1FE95DB4003D8694 /* animationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4FE96C1FE95DB4003D8694 /* animationUITests.swift */; };
 		BA4FE9851FF2E77D003D8694 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4FE9841FF2E77D003D8694 /* CustomCell.swift */; };
-		BA4FE98B1FF405E9003D8694 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4FE98A1FF405E9003D8694 /* CollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		BA4FE96C1FE95DB4003D8694 /* animationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animationUITests.swift; sourceTree = "<group>"; };
 		BA4FE96E1FE95DB4003D8694 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA4FE9841FF2E77D003D8694 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
-		BA4FE98A1FF405E9003D8694 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +101,6 @@
 			children = (
 				BA4FE94C1FE95DB3003D8694 /* AppDelegate.swift */,
 				BA4FE94E1FE95DB3003D8694 /* ViewController.swift */,
-				BA4FE98A1FF405E9003D8694 /* CollectionViewController.swift */,
 				BA4FE9501FE95DB3003D8694 /* Main.storyboard */,
 				BA4FE9531FE95DB3003D8694 /* Assets.xcassets */,
 				BA4FE9551FE95DB3003D8694 /* LaunchScreen.storyboard */,
@@ -265,7 +262,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA4FE98B1FF405E9003D8694 /* CollectionViewController.swift in Sources */,
 				BA4FE94F1FE95DB3003D8694 /* ViewController.swift in Sources */,
 				BA4FE9851FF2E77D003D8694 /* CustomCell.swift in Sources */,
 				BA4FE94D1FE95DB3003D8694 /* AppDelegate.swift in Sources */,

@@ -10,13 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "animation/ViewController.swift"
-            timestampString = "536090034.598491"
+            timestampString = "536204563.82249"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
             <Locations>
                <Location
                   shouldBeEnabled = "No"
@@ -26,7 +26,7 @@
                   moduleName = "animation"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
-                  timestampString = "536013915.093035"
+                  timestampString = "536191253.326381"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -41,7 +41,100 @@
                   moduleName = "animation"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
-                  timestampString = "536013915.096177"
+                  timestampString = "536191253.328458"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "animation.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; animation.ViewController"
+                  moduleName = "animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
+                  timestampString = "536191253.330638"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "animation.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;animation.ViewController&gt;"
+                  moduleName = "animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
+                  timestampString = "536191253.332912"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "animation.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;animation.ViewController&gt;"
+                  moduleName = "animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
+                  timestampString = "536191253.334659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "animation/ViewController.swift"
+            timestampString = "536204563.823604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MyTheme"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "animation.ViewController.__deallocating_deinit"
+                  moduleName = "animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
+                  timestampString = "536191251.837364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "animation.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; animation.ViewController"
+                  moduleName = "animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
+                  timestampString = "536191251.840127"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -56,12 +149,12 @@
                   moduleName = "animation"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
-                  timestampString = "536013915.099305"
+                  timestampString = "536191251.841627"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "77">
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "60">
                </Location>
                <Location
                   shouldBeEnabled = "No"
@@ -71,7 +164,7 @@
                   moduleName = "animation"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
-                  timestampString = "536013915.103558"
+                  timestampString = "536191251.843182"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -86,12 +179,12 @@
                   moduleName = "animation"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/guiyangfan/Desktop/ios/animation/animation/animation/ViewController.swift"
-                  timestampString = "536013915.107334"
+                  timestampString = "536191251.845177"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "46">
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "35">
                </Location>
             </Locations>
          </BreakpointContent>

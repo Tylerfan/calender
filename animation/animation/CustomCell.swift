@@ -10,10 +10,6 @@ import UIKit
 
 class CustomCell: UICollectionViewCell {
     
-    @IBOutlet var dataLabel: UILabel!
     
-    
-    
-    
-    
+    @IBOutlet weak var dateLabel: UILabel!
 }
