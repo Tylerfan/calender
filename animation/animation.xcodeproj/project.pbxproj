@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA0CB7841FFD896C0021C91E /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0CB7831FFD896C0021C91E /* TableViewCell.swift */; };
+		BA0CB7861FFDCC510021C91E /* eventViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0CB7851FFDCC510021C91E /* eventViewController.swift */; };
+		BA1B400B1FF6FA6300E271D4 /* monthLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1B400A1FF6FA6300E271D4 /* monthLabel.swift */; };
 		BA4FE94D1FE95DB3003D8694 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4FE94C1FE95DB3003D8694 /* AppDelegate.swift */; };
 		BA4FE94F1FE95DB3003D8694 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4FE94E1FE95DB3003D8694 /* ViewController.swift */; };
 		BA4FE9521FE95DB3003D8694 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA4FE9501FE95DB3003D8694 /* Main.storyboard */; };
@@ -35,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BA0CB7831FFD896C0021C91E /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		BA0CB7851FFDCC510021C91E /* eventViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eventViewController.swift; sourceTree = "<group>"; };
+		BA1B400A1FF6FA6300E271D4 /* monthLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = monthLabel.swift; sourceTree = "<group>"; };
 		BA4FE9491FE95DB3003D8694 /* animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA4FE94C1FE95DB3003D8694 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BA4FE94E1FE95DB3003D8694 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,10 +108,13 @@
 				BA4FE94C1FE95DB3003D8694 /* AppDelegate.swift */,
 				BA4FE94E1FE95DB3003D8694 /* ViewController.swift */,
 				BA4FE9501FE95DB3003D8694 /* Main.storyboard */,
+				BA0CB7851FFDCC510021C91E /* eventViewController.swift */,
+				BA0CB7831FFD896C0021C91E /* TableViewCell.swift */,
 				BA4FE9531FE95DB3003D8694 /* Assets.xcassets */,
 				BA4FE9551FE95DB3003D8694 /* LaunchScreen.storyboard */,
 				BA4FE9581FE95DB3003D8694 /* Info.plist */,
 				BA4FE9841FF2E77D003D8694 /* CustomCell.swift */,
+				BA1B400A1FF6FA6300E271D4 /* monthLabel.swift */,
 			);
 			path = animation;
 			sourceTree = "<group>";
@@ -263,6 +272,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA4FE94F1FE95DB3003D8694 /* ViewController.swift in Sources */,
+				BA0CB7861FFDCC510021C91E /* eventViewController.swift in Sources */,
+				BA1B400B1FF6FA6300E271D4 /* monthLabel.swift in Sources */,
+				BA0CB7841FFD896C0021C91E /* TableViewCell.swift in Sources */,
 				BA4FE9851FF2E77D003D8694 /* CustomCell.swift in Sources */,
 				BA4FE94D1FE95DB3003D8694 /* AppDelegate.swift in Sources */,
 			);
